@@ -1,0 +1,66 @@
+100101;Design & Marker;0;0;0;0;0;0;0;0;0
+100102;Sample Production;0;0;0;0;0;0;0;0;0
+100201;Facility;0;0;0;0;0;0;0;0;0
+100202;General Engineering;0;0;0;0;0;0;0;0;0
+100203;Machinery & Equipment;0;0;0;0;0;0;0;0;0
+100300;Finance;0;0;0;0;0;0;0;0;0
+100301;Accounting;0;0;0;0;0;0;0;0;0
+100302;Payroll;0;0;0;0;0;0;0;0;0
+100400;Human Resource;0;0;0;0;0;0;0;0;0
+100401;Procurement HR;0;0;0;0;0;0;0;0;0
+100402;General HR;0;0;0;0;0;0;0;0;0
+100403;Recruitment;0;0;0;0;0;0;0;0;0
+100500;Industrial Engineering;0;0;0;0;0;0;0;0;0
+100501;Costing;0;0;0;0;0;0;0;0;0
+100502;General IE;0;0;0;0;0;0;0;0;0
+100503;Production IE;0;0;0;0;0;0;0;0;0
+100504;Training & Development;0;0;0;0;0;0;0;0;0
+100600;Information Technology;0;0;0;0;0;0;0;0;0
+100601;Infrastructure;0;0;0;0;0;0;0;0;0
+100602;Systems;0;0;0;0;0;0;0;0;0
+100700;Logistics;0;0;0;0;0;0;0;0;0
+100701;Accessories Warehouse;0;0;0;0;0;0;0;0;0
+100702;Customs;0;0;0;0;0;0;0;0;0
+100703;Export;0;0;0;0;0;0;0;0;0
+100704;Fabric Warehouse;0;0;0;0;0;0;0;0;0
+100705;General LOG;0;0;0;0;0;0;0;0;0
+100706;Import;0;0;0;0;0;0;0;0;0
+100707;Local Freight;0;0;0;0;0;0;0;0;0
+100708;Warehouse Accessories;0;0;0;0;0;0;0;0;0
+100709;Warehouse Fabric;0;0;0;0;0;0;0;0;0
+100710;Warehouse Finished Goods;0;0;0;0;0;0;0;0;0
+100711;Warehouse Machinery & Equipment;0;0;0;0;0;0;0;0;0
+100712;Warehouse Outsourcing;0;0;0;0;0;0;0;0;0
+100713;Warehouse Scrap;0;0;0;0;0;0;0;0;0
+100800;Management & Administration;0;0;0;0;0;0;0;0;0
+100801;Area Maintenance;0;0;0;0;0;0;0;0;0
+100802;General MNA;0;0;0;0;0;0;0;0;0
+100803;IPE;0;0;0;0;0;0;0;0;0
+100804;Medical;0;0;0;0;0;0;0;0;0
+100805;Procurement MNA;0;0;0;0;0;0;0;0;0
+100806;PPIC MNA;0;0;0;0;0;0;0;0;0
+100807;Reception;0;0;0;0;0;0;0;0;0
+100808;Security;0;0;0;0;0;0;0;0;0
+100809;Transport;0;0;0;0;0;0;0;0;0
+100900;Merchandising;0;0;0;0;0;0;0;0;0
+101000;Planing Information Control;0;0;0;0;0;0;0;0;0
+101001;Accessories Monitoring;0;0;0;0;0;0;0;0;0
+101002;Cutting Planner;0;0;0;0;0;0;0;0;0
+101003;Fabric Monitoring;0;0;0;0;0;0;0;0;0
+101004;General PIC;0;0;0;0;0;0;0;0;0
+101005;Sewing Planner;0;0;0;0;0;0;0;0;0
+101006;Sub-con;0;0;0;0;0;0;0;0;0
+101007;WIP;0;0;0;0;0;0;0;0;0
+102000;Production;0;0;0;0;0;0;0;0;0
+102001;Cutting;0;0;0;0;0;0;0;0;0
+102002;Distribution;0;0;0;0;0;0;0;0;0
+102003;Finishing;0;0;0;0;0;0;0;0;0
+102004;General PRO;0;0;0;0;0;0;0;0;0
+102005;Sewing;0;0;0;0;0;0;0;0;0
+103000;PPIC;0;0;0;0;0;0;0;0;0
+103001;General PPIC;0;0;0;0;0;0;0;0;0
+104000;QA;0;0;0;0;0;0;0;0;0
+104001;Laboratory;0;0;0;0;0;0;0;0;0
+104002;Product Safety;0;0;0;0;0;0;0;0;0
+105000;Sustainability;0;0;0;0;0;0;0;0;0
+105001;General SUS;0;0;0;0;0;0;0;0;0
